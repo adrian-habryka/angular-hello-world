@@ -1,6 +1,6 @@
-This is based on example from this article: https://angular.io/guide/what-is-angular
-
 # AngularHelloWorld
+
+This is based on example from this article: https://angular.io/guide/what-is-angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
 
